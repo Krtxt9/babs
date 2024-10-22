@@ -1,0 +1,8 @@
+create database in local host name nyo ng finance
+then create kayo table ng track at user
+
+
+and user_id, budget, amount ay int, ang username, email, password, note ay varchar(100), and ang datel ay date
+
+sa user ang column ay user_id, username, email, password tas check nyo yung A_I sa user_id
+sa track naman create kayo column for user_id, date, note, budget, amount #note wag nyo click A_I  ng user_id dito unlike sa user table
